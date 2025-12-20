@@ -1,6 +1,6 @@
-Github Repo: https://github.com/shibali24/CosmicWoodSoup
-Demo: https://drive.google.com/file/d/1NZfevVqvGR_M-xVRUk2lvpnYP62F5FXN/view?usp=sharing
-Link: https://openprocessing.org/sketch/2827253
+- Github Repo: https://github.com/shibali24/CosmicWoodSoup
+- Demo: https://drive.google.com/file/d/1NZfevVqvGR_M-xVRUk2lvpnYP62F5FXN/view?usp=sharing
+- Link: https://openprocessing.org/sketch/2827253
 
 # Cosmic Wood Soup
 
